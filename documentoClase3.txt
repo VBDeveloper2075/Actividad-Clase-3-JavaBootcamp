@@ -1,3 +1,4 @@
 ¡Hola Mundo! Soy Paula
 
 ¡Hola Mundo! Soy Veronica
+y ahora voy a usar mi rama para hacer cambios, de manera que mis companieras lo puedan revisar antes de fusionarlos con la rama principal.
